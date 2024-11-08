@@ -1,1 +1,1 @@
-trusted devices are IPhone X and Windows 10 devices 
+trusted devices are IPhone X
